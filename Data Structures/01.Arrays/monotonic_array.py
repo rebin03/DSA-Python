@@ -9,7 +9,8 @@ def monotonic_array(array):
             is_increasing = True
         else:
             is_decreasing = True
-            
+        
+        # it'll not monotonic if decreasing and increasing occurs simultaneously  
         if is_increasing and is_decreasing:
             return False
         

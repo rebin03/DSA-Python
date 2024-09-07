@@ -8,9 +8,11 @@ def max_area(array):
         width = right-left
         current_area = min(array[left], array[right]) * width
         
+        # updating the area with max area
         if current_area > max_area:
             max_area = current_area
-            
+        
+        # shifting the pointer which has minimum height 
         if array[left] < array[right]:
             left += 1
         else:
