@@ -61,4 +61,4 @@ This repository is a collection of my work on Data Structures and Algorithms usi
 
 ## Contributing
 
-Feel free to fork the repository and make your own contributions. If you find any bugs or improvements, please raise an issue or submit a pull request.
+Feel free to fork the repository and make your own contributions. If you find any corrections or improvements, please raise an issue or submit a pull request.
