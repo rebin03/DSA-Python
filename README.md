@@ -15,10 +15,11 @@ Welcome to the **DSA with Python** repository! This repository contains my imple
 - [Data Structures](#data-structures)
   - Arrays
   - Linked Lists
-  - Stacks & Queues
+  - Stacks
+  - Queues
+  - Hash Tables
   - Trees & Binary Trees
   - Heaps
-  - Hashing
 - [Contributing](#contributing)
 
 ## Introduction
