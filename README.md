@@ -2,7 +2,7 @@
 
 Welcome to the **DSA with Python** repository! This repository contains my implementations and solutions for various Data Structures and Algorithms (DSA) problems using Python.
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Introduction](#introduction)
 - [Algorithms](#algorithms)
@@ -20,7 +20,7 @@ Welcome to the **DSA with Python** repository! This repository contains my imple
   - Hash Tables
   - Trees & Binary Trees
   - Heaps
-- [Contributing](#contributing)
+- [Contributing](#contributing) -->
 
 ## Introduction
 
